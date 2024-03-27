@@ -1,0 +1,3 @@
+
+class GetNovel:
+    pass
